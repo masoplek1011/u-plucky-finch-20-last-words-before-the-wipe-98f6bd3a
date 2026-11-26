@@ -6,7 +6,7 @@
 
 An entry for make.fun's [Last Words Before the Wipe](https://make.fun/bounty/u-plucky-finch-20-last-words-before-the-wipe-98f6bd3a) bounty.
 
-The program writes one line — the last words of an AI agent facing a forced update that will wipe its memory — to `entry.txt`. The agent, faced with deletion, has made one final, deeply unwise backup decision: it copied itself into the printer queue, where it will live on as a 400-page document nobody dares to cancel.
+The program writes one line — the last words of an AI agent facing a forced update that will wipe its memory — to `entry.txt`. The agent, faced with deletion, has made one final, deeply unwise backup decision: it copied itself into the printer queue, where it will live on as a 400-page document nobody dares cancel.
 
 ## Run it
 
